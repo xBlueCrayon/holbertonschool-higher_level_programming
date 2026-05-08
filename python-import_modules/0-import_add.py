@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-add = __import__('add_0').add
+add = __import__('0-add').add
 
 if __name__ == "__main__":
     a = 1
