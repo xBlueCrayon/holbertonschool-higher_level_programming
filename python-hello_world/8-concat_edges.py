@@ -1,3 +1,4 @@
 #!/usr/bin/python3
-word = "Holberton"
-print(word[3:] + " " + word[:3])
+str1 = "Holberton"
+str2 = "School"
+print(str1[3:] + " " + str1[:3])
