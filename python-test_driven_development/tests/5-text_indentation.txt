@@ -2,9 +2,9 @@
 
 >>> text_indentation("Hello. How are you? I am fine:")
 Hello.
-
+<BLANKLINE>
 How are you?
-
+<BLANKLINE>
 I am fine:
 
 >>> text_indentation("Python is cool")
@@ -12,11 +12,11 @@ Python is cool
 
 >>> text_indentation("A.B?C:D")
 A.
-
+<BLANKLINE>
 B?
-
+<BLANKLINE>
 C:
-
+<BLANKLINE>
 D
 
 >>> text_indentation(89)
