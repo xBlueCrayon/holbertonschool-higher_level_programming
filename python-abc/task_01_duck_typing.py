@@ -44,8 +44,8 @@ class Rectangle(Shape):
     def __init__(self, width, height):
         """Initialize rectangle."""
 
-        self.width = abs(width)
-        self.height = abs(height)
+        self.width = width
+        self.height = height
 
     def area(self):
         """Return rectangle area."""
